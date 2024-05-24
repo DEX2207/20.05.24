@@ -5,3 +5,10 @@ E:\215\20.05.24\20.05.24\obj\Debug\20.05.24.csproj.AssemblyReference.cache
 E:\215\20.05.24\20.05.24\obj\Debug\20.05.24.csproj.CoreCompileInputs.cache
 E:\215\20.05.24\20.05.24\obj\Debug\20.05.24.exe
 E:\215\20.05.24\20.05.24\obj\Debug\20.05.24.pdb
+H:\215\20.05.24\20.05.24\obj\Debug\20.05.24.csproj.AssemblyReference.cache
+H:\215\20.05.24\20.05.24\obj\Debug\20.05.24.csproj.CoreCompileInputs.cache
+H:\215\20.05.24\20.05.24\obj\Debug\20.05.24.exe
+H:\215\20.05.24\20.05.24\obj\Debug\20.05.24.pdb
+H:\215\20.05.24\20.05.24\bin\Debug\20.05.24.exe.config
+H:\215\20.05.24\20.05.24\bin\Debug\20.05.24.exe
+H:\215\20.05.24\20.05.24\bin\Debug\20.05.24.pdb
