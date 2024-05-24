@@ -28,7 +28,7 @@ namespace _20._05._24
             dynamic x2 = segments[1][0];
             dynamic y1 = segments[0][1];
             dynamic y2 = segments[1][1];
-            double l = Math.Sqrt(Math.Pow((double)x1 - (double)x2, 2) + Math.Pow((double)y1 - (double)y2, 2));
+            double l = Math.Sqrt(Math.Pow(x1 - x2, 2) + Math.Pow(y1 - y2, 2));
             return l;
         }
         public void Print()
