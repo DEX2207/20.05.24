@@ -33,9 +33,9 @@ namespace _20._05._24
                 dynamics.Add(new List<dynamic>());
                 Console.Clear();
                 Console.WriteLine($"Введите 1 координату {i + 1} точки: ");
-                double x = Convert.ToDouble(Console.ReadLine());
+                dynamic x = Convert.ToDouble(Console.ReadLine());
                 Console.WriteLine($"Введите 2 координату {i + 1} точки: ");
-                double y = Convert.ToDouble(Console.ReadLine());
+                dynamic y = Convert.ToDouble(Console.ReadLine());
                 dynamics[i].Add(x);
                 dynamics[i].Add(y);
             }
